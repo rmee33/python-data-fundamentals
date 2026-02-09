@@ -23,6 +23,7 @@ All examples are self-contained and use synthetic inputs.
 ---
 
 ## Repository Structure
+```text
 python-data-fundamentals/
 ├── 01_loops_and_iteration.py
 ├── 02_string_cleaning.py
