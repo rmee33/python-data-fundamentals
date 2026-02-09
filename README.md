@@ -23,3 +23,9 @@ All examples are self-contained and use synthetic inputs.
 ---
 
 ## Repository Structure
+python-data-fundamentals/
+├── 01_loops_and_iteration.py
+├── 02_string_cleaning.py
+├── 03_input_parsing.py
+├── 04_collections_and_unpacking.py
+└── mini_project_clean_transform.py
